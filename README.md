@@ -1,6 +1,8 @@
 # Rasterize
 
-Create rasterized Versions of SwiftUI views
+![Swift](https://github.com/fourplusone/rasterize/workflows/Swift/badge.svg)
+
+Create rasterized versions of SwiftUI views
 
 ## Example
 
